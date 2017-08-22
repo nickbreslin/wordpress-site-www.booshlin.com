@@ -45,7 +45,8 @@
     "roots/wp-password-bcrypt": "1.0.0",
     "roots/soil": "3.7.1",
 
-    "nickbreslin/wordpress-plugin-campaign-manager" : "dev-master"
+    "nickbreslin/wordpress-plugin-campaign-manager" : "dev-master",
+    "roots/wp-stage-switcher": "2.0.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"
