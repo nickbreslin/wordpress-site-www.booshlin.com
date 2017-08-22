@@ -30,6 +30,10 @@
     {
       "type": "composer",
       "url": "https://wpackagist.org"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/nickbreslin/wordpress-plugin-campaign-manager.git"
     }
   ],
   "require": {
@@ -38,7 +42,10 @@
     "vlucas/phpdotenv": "^2.0.1",
     "johnpbloch/wordpress": "4.8.1",
     "oscarotero/env": "^1.1.0",
-    "roots/wp-password-bcrypt": "1.0.0"
+    "roots/wp-password-bcrypt": "1.0.0",
+    "roots/soil": "3.7.1",
+
+    "nickbreslin/wordpress-plugin-campaign-manager" : "dev-master"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2"
