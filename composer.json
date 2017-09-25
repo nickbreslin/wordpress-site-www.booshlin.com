@@ -45,7 +45,8 @@
     "roots/wp-password-bcrypt": "1.0.0",
     "roots/soil": "3.7.1",
 
-    "nickbreslin/wordpress-plugin-campaign-manager" : "dev-master",
+    "wpackagist-plugin/contact-form-7": "4.9",
+    "wpackagist-plugin/gmail-smtp": "1.1.5",
     "roots/wp-stage-switcher": "2.0.0"
   },
   "require-dev": {
