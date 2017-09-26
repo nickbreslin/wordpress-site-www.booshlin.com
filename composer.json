@@ -58,7 +58,7 @@
     "wpackagist-plugin/w3-total-cache": "0.9.5.4",
     "wpackagist-plugin/google-analytics-for-wordpress": "6.2.3",
     
-    "wpackagist-plugin/contact-form-7": "4.9"
+    "wpackagist-plugin/contact-form-7": "4.9",
     "wpackagist-plugin/gmail-smtp": "1.1.5",
   },
   "require-dev": {
