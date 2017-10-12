@@ -33,7 +33,7 @@
     },
     {
        "type": "vcs",
-       "url": "https://github.com/nickbreslin/wordpress-plugin-campaign-manager.git"
+       "url": "https://github.com/booshlin/form-analytics-for-wordpress.git"
      }
   ],
   "require": {
